@@ -1,2 +1,3 @@
 # hello-world
-Sample repo
+Sample repo for Laurie Dotter
+
